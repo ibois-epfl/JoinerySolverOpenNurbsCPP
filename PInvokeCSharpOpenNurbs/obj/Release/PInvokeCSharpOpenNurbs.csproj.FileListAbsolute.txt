@@ -1,0 +1,6 @@
+C:\Users\petra\AppData\Roaming\McNeel\Rhinoceros\packages\7.0\ngon\3.1.0\PInvokeCSharpOpenNurbs.dll
+C:\Users\petra\AppData\Roaming\McNeel\Rhinoceros\packages\7.0\ngon\3.1.0\PInvokeCSharpOpenNurbs.pdb
+C:\IBOIS57\_Code\Software\CSharp\NGon\NGon\PInvokeCSharpOpenNurbs\obj\Release\PInvokeCSharpOpenNurbs.csproj.AssemblyReference.cache
+C:\IBOIS57\_Code\Software\CSharp\NGon\NGon\PInvokeCSharpOpenNurbs\obj\Release\PInvokeCSharpOpenNurbs.csproj.CoreCompileInputs.cache
+C:\IBOIS57\_Code\Software\CSharp\NGon\NGon\PInvokeCSharpOpenNurbs\obj\Release\PInvokeCSharpOpenNurbs.dll
+C:\IBOIS57\_Code\Software\CSharp\NGon\NGon\PInvokeCSharpOpenNurbs\obj\Release\PInvokeCSharpOpenNurbs.pdb

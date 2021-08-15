@@ -1,0 +1,11 @@
+﻿  pch.cpp
+  dllmain.cpp
+  Export.cpp
+   --- dynamically linking opennurbs (DLL).
+C:\IBOIS57\_Code\Software\CSharp\NGon\NGon\PInvokeON\Export.cpp(94,38): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+     Creating library C:\Users\petra\AppData\Roaming\McNeel\Rhinoceros\packages\7.0\ngon\3.1.0\PInvokeON.lib and object C:\Users\petra\AppData\Roaming\McNeel\Rhinoceros\packages\7.0\ngon\3.1.0\PInvokeON.exp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 88 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  PInvokeON.vcxproj -> C:\Users\petra\AppData\Roaming\McNeel\Rhinoceros\packages\7.0\ngon\3.1.0\PInvokeON.dll
